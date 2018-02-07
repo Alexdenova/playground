@@ -7,20 +7,20 @@ One thing, we would like you to write your enviroment or docker-hub link with yo
 
 Let's PR !  
 
-## If you want Enviroments
+## If you want Start Enviroments
 #### Playground for Docker
+
 OS: CentOS 7  
 Installed Only: CUDA8.0, cuDNN 7, Miniconda  
-https://hub.docker.com/r/shllln/playground/
 
 Getting start with pull command.  
-`# docker pull shllln/playground`    
+`$ docker pull shllln/playground`    
 
 For cpu only,  
-`# docker run -i -t shllln/playground /bin/bash`  
+`$ docker run -i -t shllln/playground /bin/bash`  
 
 For gpu user,  
-`# nvidia-docker run -i -t shllln/playground /bin/bash`  
+`$ nvidia-docker run -i -t shllln/playground /bin/bash`  
 Requirements: nvidia-docker  
 See also: https://github.com/NVIDIA/nvidia-docker  
 
