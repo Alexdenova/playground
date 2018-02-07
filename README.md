@@ -9,6 +9,8 @@ Let's PR !
 
 ## If you want Enviroments
 #### Playground for Docker
+OS: CentOS 7  
+Installed: CUDA8.0, cuDNN 7, Miniconda  
 
 Getting start with this command.  
 
