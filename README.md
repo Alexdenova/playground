@@ -24,4 +24,4 @@ For gpu user,
 Requirements: nvidia-docker  
 See also: https://github.com/NVIDIA/nvidia-docker  
 
-  
+Docker Hub: https://hub.docker.com/r/shllln/playground/
