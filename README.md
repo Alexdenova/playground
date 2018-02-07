@@ -10,7 +10,8 @@ Let's PR !
 ## If you want Enviroments
 #### Playground for Docker
 OS: CentOS 7  
-Installed: CUDA8.0, cuDNN 7, Miniconda  
+Installed Only: CUDA8.0, cuDNN 7, Miniconda  
+https://hub.docker.com/r/shllln/playground/
 
 Getting start with pull command.  
 `# docker pull shllln/playground`    
@@ -20,6 +21,7 @@ For cpu only,
 
 For gpu user,  
 `# nvidia-docker run -i -t shllln/playground /bin/bash`  
+Requirements: nvidia-docker  
+See also: https://github.com/NVIDIA/nvidia-docker  
 
-See also:  
-https://hub.docker.com/r/shllln/playground/  
+  
