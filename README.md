@@ -9,11 +9,19 @@ Let's PR !
 
 ## If you want Enviroments
 #### Playground for Docker
+
 Getting start with this command.  
+
 `# docker pull shllln/playground`    
+
 For cpu only,  
+
 `# docker run -i -t shllln/playground /bin/bash`  
+
 For gpu user,  
+
 `# nvidia-docker run -i -t shllln/playground /bin/bash`  
+
 See also:  
+
 https://hub.docker.com/r/shllln/playground/  
