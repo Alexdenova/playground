@@ -13,15 +13,12 @@ OS: CentOS 7
 Installed: CUDA8.0, cuDNN 7, Miniconda  
 
 Getting start with this command.  
-
 `# docker pull shllln/playground`    
 
 For cpu only,  
-
 `# docker run -i -t shllln/playground /bin/bash`  
 
 For gpu user,  
-
 `# nvidia-docker run -i -t shllln/playground /bin/bash`  
 
 See also:  
