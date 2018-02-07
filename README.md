@@ -12,7 +12,7 @@ Let's PR !
 OS: CentOS 7  
 Installed: CUDA8.0, cuDNN 7, Miniconda  
 
-Getting start with this command.  
+Getting start with pull command.  
 `# docker pull shllln/playground`    
 
 For cpu only,  
