@@ -7,9 +7,19 @@ One thing, we would like you to write your enviroment or docker-hub link with yo
 
 Let's PR !
 
-# Enviroment
+## If you want Enviroments
 Playground for Docker
+
+Getting start with this command.
+
+`docker pull shllln/playground`
 
 https://hub.docker.com/r/shllln/playground/
 
+For cpu only,
+
 `# docker run -i -t shllln/playground /bin/bash`
+
+For gpu user,
+
+`# nvidia-docker run -i -t shllln/playground /bin/bash`
