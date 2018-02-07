@@ -9,4 +9,7 @@ Let's PR !
 
 # Enviroment
 Playground for Docker
+
 https://hub.docker.com/r/shllln/playground/
+
+`# docker run -i -t shllln/playground /bin/bash`
