@@ -3,7 +3,7 @@ Here is the playground for python, machine learning, deep learning, and what you
 
 Welcome your pull requests.  
 
-One thing, we would like you to write your enviroment or docker-hub link with your codes/products.  
+We would like you to write your enviroment or docker-hub link on your codes/products.  
 
 Let's play with us.
 
