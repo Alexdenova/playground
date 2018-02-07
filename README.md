@@ -1,11 +1,11 @@
 # Playground
 Here is the playground for python, machine learning, deep learning, and what you are interested in.  
 
-Welcome your Pull requests for anything.  
+Welcome your pull requests.  
 
 One thing, we would like you to write your enviroment or docker-hub link with your codes/products.  
 
-Let's PR !  
+Let's play with us.
 
 ## If you want Enviroments
 #### Playground for Docker
