@@ -7,7 +7,7 @@ We would like you to write your enviroment or docker-hub link on your codes/prod
 
 Let's play with us.
 
-## If you want Enviroments
+## Enviroments
 #### Playground for Docker
 
 OS: CentOS 7  
