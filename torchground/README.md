@@ -8,4 +8,5 @@ In a container
 `root$ cd notebooks/`  
 `root$ git clone https://github.com/shllln/playground.git`  
 `root$ jupyter notebook --allow-root`  
-Open PimaIndiansDiabetes.ipynb  
+
+Go to http://localhost:8888/
