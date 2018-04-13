@@ -1,7 +1,9 @@
 ## playground for ML
 Here is the playground for python, machine learning, deep learning, and what you are interested in.  
 
-#### default envriroment
+#### playground envriroments
+
+##### Pure enviroments
 
 For cpu only  
 `$ docker run -i -t relutropy/playground /bin/bash`  
