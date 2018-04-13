@@ -10,14 +10,14 @@ Let's play with us.
 ## Enviroments
 #### Playground ML for Docker
 
-Getting start with Pull command.  
-`$ docker pull relutropy/playground`    
+Getting start with Docker   
 
-For cpu only
+For cpu only  
 `$ docker run -i -t relutropy/playground /bin/bash`  
 
 For gpu user  
 `$ nvidia-docker run -i -t relutropy/playground /bin/bash`  
 
-OS: CentOS 7 with CUDA8.0, cuDNN 7, Miniconda  
+Docker imgages formation:   
+CentOS 7 with CUDA8.0, cuDNN 7, Miniconda  
 Docker Hub Link: https://hub.docker.com/r/relutropy/playground/
