@@ -1,7 +1,7 @@
-## Playground ML
+## playground for ML
 Here is the playground for python, machine learning, deep learning, and what you are interested in.  
 
-#### Playground ML for Docker
+#### Docker envriroments
 
 Getting start with Docker   
 
