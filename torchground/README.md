@@ -1,4 +1,4 @@
-### PyTorchground
+### Torchground
 
 `$ nvidia-docker run -i -t -p 8888:8888 -v directory_pass:/notebooks relutropy/torchground /bin/bash`  
 
