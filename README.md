@@ -31,4 +31,6 @@ nvidia-docker
 `$ nvidia-docker run -i -t -p 8888:8888 -v directory_pass:/notebooks relutropy/torchground /bin/bash`     
 `root$ jupyter notebook --allow-root`  
 
+Go to http://localhost:8888/ and play.
+
 
