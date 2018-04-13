@@ -3,8 +3,6 @@ Here is the playground for python, machine learning, deep learning, and what you
 
 #### Docker envriroments
 
-Getting start with Docker   
-
 For cpu only  
 `$ docker run -i -t relutropy/playground /bin/bash`  
 
