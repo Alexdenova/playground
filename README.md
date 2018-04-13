@@ -3,7 +3,7 @@ Here is the playground for python, machine learning, deep learning, and what you
 
 ### Docker envriroments
 
-> ##### Pure enviroments
+> ##### Pure enviroment
 
 For CPU  
 `$ docker run -i -t relutropy/playground /bin/bash`  
@@ -14,13 +14,14 @@ nvidia-docker version 2.0
 nvidia-docker  
 `$ nvidia-docker run -i -t relutropy/playground /bin/bash`  
 
-> ##### Pytorch enviroments
+
+> ##### Pytorch enviroment
 
 For CPU  
 `$ docker run -i -t relutropy/torchground /bin/bash`  
 
 For GPU   
 nvidia-docker version 2.0   
-  `$ docker run --runtime=nvidia -i -t relutropy/torchground /bin/bash`    
+`$ docker run --runtime=nvidia -i -t relutropy/torchground /bin/bash`    
 nvidia-docker   
-  `$ nvidia-docker run -i -t relutropy/torchground /bin/bash`     
+`$ nvidia-docker run -i -t relutropy/torchground /bin/bash`     
