@@ -3,7 +3,7 @@ Here is the playground for python, machine learning, deep learning, and what you
 
 #### playground envriroments
 
-##### Pure enviroments
+> ##### Pure enviroments
 
 For cpu only  
 `$ docker run -i -t relutropy/playground /bin/bash`  
