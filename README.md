@@ -5,8 +5,6 @@ Welcome your pull requests.  
 
 We would like you to write your enviroment or docker-hub link on your codes/products.  
 
-Let's play with us.
-
 #### Playground ML for Docker
 
 Getting start with Docker   
