@@ -9,4 +9,4 @@ In a container
 `root$ git clone https://github.com/shllln/playground.git`  
 `root$ jupyter notebook --allow-root`  
 
-Go to http://localhost:8888/
+Go to http://localhost:8888/ and open PimaIndiansDiabetes.ipynb
