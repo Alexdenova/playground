@@ -1,6 +1,7 @@
 ### Torchground
 
 `$ nvidia-docker run -i -t -p 8888:8888 -v directory_pass:/notebooks relutropy/torchground /bin/bash`  
+Change directry_pass to the directory pass you want to save files.  
 
 In a container  
 
