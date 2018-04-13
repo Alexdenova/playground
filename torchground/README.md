@@ -11,3 +11,6 @@ In a container
 `root$ jupyter notebook --allow-root`  
 
 Go to http://localhost:8888/ and play.
+
+#### Notebook lits  
+- PimaIndiansDiabetes.ipynb (GPU only)  
