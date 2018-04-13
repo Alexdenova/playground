@@ -15,6 +15,7 @@ For cpu only
 `$ docker run -i -t relutropy/playground /bin/bash`  
 
 For gpu user   
+
 nvidia-docker   
 `$ nvidia-docker run -i -t relutropy/playground /bin/bash`     
 
