@@ -14,6 +14,7 @@ nvidia-docker version 2.0
 nvidia-docker  
 `$ nvidia-docker run -i -t relutropy/playground /bin/bash`  
 
+  
 
 > ##### Pytorch enviroment
 
