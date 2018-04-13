@@ -1,10 +1,6 @@
 ## Playground ML
 Here is the playground for python, machine learning, deep learning, and what you are interested in.  
 
-Welcome your pull requests.  
-
-We would like you to write your enviroment or docker-hub link on your codes/products.  
-
 #### Playground ML for Docker
 
 Getting start with Docker   
