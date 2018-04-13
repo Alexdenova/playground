@@ -12,5 +12,5 @@ In a container
 
 Go to http://localhost:8888/ and play.
 
-#### Notebook lits  
+#### Notebook Lists  
 - PimaIndiansDiabetes.ipynb (GPU only)  
