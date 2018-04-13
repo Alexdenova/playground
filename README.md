@@ -18,6 +18,5 @@ For cpu only
 For gpu user  
 `$ nvidia-docker run -i -t relutropy/playground /bin/bash`  
 
-Docker imgages formation:   
 CentOS 7 with CUDA8.0, cuDNN 7, Miniconda  
 Docker Hub Link: https://hub.docker.com/r/relutropy/playground/
