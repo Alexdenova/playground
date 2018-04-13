@@ -19,10 +19,10 @@ nvidia-docker
 > ##### Pytorch enviroment
 
 For CPU  
-`$ docker run -i -t relutropy/torchground /bin/bash`  
+`$ docker run -i -t -p 8888:8888 -v your_directory_pass:/notebooks relutropy/torchground /bin/bash`  
 
 For GPU   
 nvidia-docker version 2.0   
-`$ docker run --runtime=nvidia -i -t relutropy/torchground /bin/bash`    
+`$ docker run --runtime=nvidia -i -t -p 8888:8888 -v your_directory_pass:/notebooks relutropy/torchground /bin/bash`    
 nvidia-docker   
-`$ nvidia-docker run -i -t relutropy/torchground /bin/bash`     
+`$ nvidia-docker run -i -t -p 8888:8888 -v your_directory_pass:/notebooks relutropy/torchground /bin/bash`     
