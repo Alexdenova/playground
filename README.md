@@ -20,17 +20,16 @@ nvidia-docker
 
 For CPU  
 `$ docker run -i -t -p 8888:8888 -v directory_pass:/notebooks relutropy/torchground /bin/bash`  
-`$ jupyter notebook --allow-root`  
+`root$ jupyter notebook --allow-root`  
 Browse http://localhost:8888/ and enter in notebooks directory.
 
 For GPU   
 nvidia-docker version 2.0   
 `$ docker run --runtime=nvidia -i -t -p 8888:8888 -v directory_pass:/notebooks relutropy/torchground /bin/bash`  
-`$ jupyter notebook --allow-root`  
-Browse http://localhost:8888/ and enter in notebooks directory.
+`root$ jupyter notebook --allow-root`  
 
 nvidia-docker   
 `$ nvidia-docker run -i -t -p 8888:8888 -v directory_pass:/notebooks relutropy/torchground /bin/bash`     
-`$ jupyter notebook --allow-root`  
-Browse http://localhost:8888/ and enter in notebooks directory.
+`root$ jupyter notebook --allow-root`  
+
 
